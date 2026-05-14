@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+pydantic
+
+# libraries for ai part
+ 
+langchain 
+langchain-core 
+langchain-community 
+langchain-groq
+
+langgraph
+
+python-dotenv
+
+streamlit
+
+uvicorn
+
+#document download
+python-docx
